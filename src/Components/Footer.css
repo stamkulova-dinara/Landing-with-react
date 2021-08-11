@@ -1,0 +1,17 @@
+.Footer {
+	width: 1440px;
+	height: 80px;
+	background-color: #62d0df;
+}
+
+.Footertxt {
+	margin-left: 194px;
+	padding: 30px;
+
+	font-size: 14px;
+	font-weight: normal;
+	line-height: 11px;
+	letter-spacing: -0.006em;
+
+	color: #ffffff;
+}

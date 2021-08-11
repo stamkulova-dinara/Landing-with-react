@@ -1,0 +1,49 @@
+.Block7 {
+	display: flex;
+	justify-content: space-between;
+	width: 1440px;
+	background-color: #22356f;
+}
+
+.bl7txt1 {
+	margin-top: 80px;
+	margin-left: 180px;
+	font-size: 16px;
+	line-height: 12px;
+	letter-spacing: 0.06em;
+
+	color: #ffffff;
+}
+.bl7txt2 {
+	margin-top: 80px;
+	margin-left: 180px;
+	font-size: 64px;
+	line-height: 94px;
+	letter-spacing: -0.01em;
+
+	color: #ffffff;
+}
+
+.bl7txt3 {
+	margin-top: 80px;
+	margin-left: 180px;
+	width: 579px;
+	height: 253px;
+	font-size: 36px;
+	line-height: 53px;
+	letter-spacing: -0.005em;
+
+	color: #ffffff;
+}
+
+.bl7txt4 {
+	margin-top: 80px;
+	margin-left: 180px;
+	font-size: 16px;
+	line-height: 23px;
+	display: flex;
+	align-items: center;
+	letter-spacing: 0.1em;
+
+	color: #62d0df;
+}

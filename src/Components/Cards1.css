@@ -1,0 +1,38 @@
+.parentCards1 {
+	display: flex;
+	justify-content: space-around;
+	margin-top: 100px;
+	width: 1440px;
+	flex-wrap: wrap;
+}
+
+.minibox11,
+.minibox12,
+.minibox13,
+.minibox14,
+.minibox15,
+.minibox16 {
+	width: 400px;
+	height: 200px;
+}
+
+.ttitle {
+	font-size: 28px;
+	line-height: 33px;
+	font-weight: normal;
+	letter-spacing: -0.03em;
+
+	color: #22356f;
+}
+.ttext {
+	font-size: 16px;
+	line-height: 25px;
+	letter-spacing: -0.03em;
+
+	color: rgba(34, 53, 111, 0.5);
+}
+.ttext,
+.ttitle {
+	margin-left: 60px;
+	margin-right: 60px;
+}

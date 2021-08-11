@@ -1,0 +1,52 @@
+.parentCards {
+	display: flex;
+	justify-content: stretch;
+	color: white;
+	margin-top: 100px;
+	width: 1440px;
+	flex-wrap: wrap;
+}
+
+.minibox1,
+.minibox2,
+.minibox3,
+.minibox4,
+.minibox5,
+.minibox6 {
+	width: 480px;
+	height: 480px;
+}
+.minibox1 {
+	background-color: #22356f;
+}
+
+.minibox2 {
+	background-color: #0052c1;
+}
+
+.minibox3 {
+	background-image: url('/src/images/joa.png');
+}
+
+.minibox4 {
+	background-color: #62d0df;
+}
+
+.minibox5 {
+	background-color: #dee1ff;
+}
+
+.minibox6 {
+	background-color: #8f00ff;
+}
+
+.title {
+	font-size: 32px;
+	font-weight: bold;
+	margin-left: 120px;
+	letter-spacing: -0.006em;
+}
+.line {
+	font-size: 32px;
+	margin-left: 50px;
+}

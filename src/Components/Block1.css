@@ -1,0 +1,32 @@
+.block1 {
+	display: flex;
+	justify-content: space-between;
+	width: 1440px;
+
+	background: #62d0df;
+}
+
+.b1txt1 {
+	margin-left: 120px;
+	margin-top: 150px;
+	font-size: 36px;
+	line-height: 27px;
+	letter-spacing: -0.006em;
+
+	color: #ffffff;
+}
+
+.b1txt2 {
+	width: 555px;
+	height: 235px;
+	margin-left: 120px;
+	font-size: 20px;
+	line-height: 35px;
+
+	color: #ffffff;
+}
+
+span {
+	font-weight: bold;
+	font-size: 24px;
+}

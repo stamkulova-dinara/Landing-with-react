@@ -1,0 +1,42 @@
+.parentCard {
+	display: flex;
+	justify-content: stretch;
+	color: white;
+	margin-top: 30px;
+	width: 1440px;
+	flex-wrap: wrap;
+}
+
+.minbox1,
+.minbox2,
+.minbox3,
+.minbox4 {
+	width: 360px;
+	height: 360px;
+}
+.minbox1 {
+	background-color: #ffe2de;
+}
+
+.minbox2 {
+	background-color: #c4e769;
+}
+
+.minbox3 {
+	background-color: #62d0df;
+}
+
+.minbox4 {
+	background-color: #0052c1;
+}
+
+.titles {
+	font-size: 32px;
+	font-weight: bold;
+	margin-left: 90px;
+	letter-spacing: -0.006em;
+}
+.lines {
+	font-size: 26px;
+	margin-left: 30px;
+}

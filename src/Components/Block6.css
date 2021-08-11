@@ -1,0 +1,36 @@
+.Block6 {
+	display: flex;
+	justify-content: space-between;
+	width: 1440px;
+}
+.bl6cont2 {
+	margin-right: 150px;
+}
+
+.bl6txt1 {
+	font-size: 16px;
+	letter-spacing: 0.1em;
+	margin-top: 80px;
+
+	color: #fab63e;
+}
+.bl6txt2 {
+	margin-top: 150px;
+	width: 676px;
+	height: 215px;
+
+	font-size: 36px;
+	font-weight: bold;
+	line-height: 53px;
+	letter-spacing: -0.01em;
+
+	color: #22356f;
+}
+
+.bl6txt3 {
+	font-size: 16px;
+	margin-top: 250px;
+	letter-spacing: 0.1em;
+
+	color: #fab63e;
+}

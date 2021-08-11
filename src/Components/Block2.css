@@ -1,0 +1,46 @@
+.block2 {
+	display: flex;
+	justify-content: space-around;
+	width: 1440px;
+	height: 361px;
+
+	background: #ffffff;
+}
+
+.bl2txt1 {
+	margin-left: 120px;
+	margin-top: 100px;
+
+	font-size: 16px;
+	font-weight: normal;
+	line-height: 23px;
+	letter-spacing: 0.06em;
+
+	color: #22356f;
+}
+
+.bl2txt2 {
+	margin-right: 250px;
+	margin-top: 160px;
+	width: 592px;
+	height: 210px;
+	left: 424px;
+
+	font-size: 24px;
+	font-weight: bold;
+	line-height: 34px;
+	letter-spacing: 0.005em;
+
+	color: #22356f;
+}
+
+.bl2txt3 {
+	margin-top: 80px;
+	height: 21px;
+	margin-left: 600px;
+
+	font-size: 16px;
+	letter-spacing: 0.06em;
+
+	color: rgba(34, 53, 111, 0.5);
+}
