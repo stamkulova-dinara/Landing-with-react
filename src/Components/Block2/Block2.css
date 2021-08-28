@@ -1,9 +1,8 @@
 .block2 {
 	display: flex;
 	justify-content: space-around;
-	width: 1440px;
+	width: 1700px;
 	height: 361px;
-
 	background: #ffffff;
 }
 

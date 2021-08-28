@@ -1,5 +1,5 @@
 import './Block7.css'
-import charles from '../images/charles.png'
+import charles from '../../images/charles.png'
 
 const Block7 = () => {
 	return (

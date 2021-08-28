@@ -1,5 +1,5 @@
 import './Header.css'
-import boys from '../images/boys.png'
+import boys from '../../images/boys.png'
 
 
 const Header = () => {

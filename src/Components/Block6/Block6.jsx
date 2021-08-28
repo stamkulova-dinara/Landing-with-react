@@ -1,5 +1,5 @@
 import './Block6.css'
-import men from '../images/men.png'
+import men from '../../images/men.png'
 
 const Block6 = () => {
 	return (

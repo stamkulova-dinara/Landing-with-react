@@ -1,5 +1,5 @@
 import './Cards2.css'
-import photogirl from '../images/photogirl.png'
+import photogirl from '../../images/photogirl.png'
 
 const Cards2 = () => {
 	return (

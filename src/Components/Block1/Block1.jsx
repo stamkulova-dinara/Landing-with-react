@@ -1,7 +1,7 @@
 import './Block1.css'
-import girl from '../images/girl.png'
+import girl from '../../images/girl.png'
 
-const block1 = () => {
+const Block1 = () => {
 	return (
 		<div className='block1'>
 			<div className='b1txt'>
@@ -26,4 +26,4 @@ const block1 = () => {
 	)
 }
 
-export default block1
+export default Block1
