@@ -3,7 +3,7 @@
 	justify-content: stretch;
 	color: white;
 	margin-top: 30px;
-	width: 1440px;
+	width: 1349px;
 	flex-wrap: wrap;
 }
 
@@ -11,8 +11,8 @@
 .minbox2,
 .minbox3,
 .minbox4 {
-	width: 360px;
-	height: 360px;
+	width: 337px;
+	height: 332px;
 }
 .minbox1 {
 	background-color: #ffe2de;

@@ -1,7 +1,7 @@
 .Cards2 {
 	display: flex;
 	justify-content: space-between;
-	width: 1440px;
+	width: 1349px;
 	flex-wrap: wrap;
 }
 
@@ -15,8 +15,8 @@
 .Cards2txt1,
 .Cards2txt2,
 .Cards2txt3 {
-	width: 150px;
-	height: 207px;
+	width: 130px;
+	height: 200px;
 	margin-right: 50px;
 	margin-left: 50px;
 }
