@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Landing-with-react/static/css/main.fcaf0a77.chunk.css",
+    "main.css": "/Landing-with-react/static/css/main.94239e2e.chunk.css",
     "main.js": "/Landing-with-react/static/js/main.55e26d53.chunk.js",
     "main.js.map": "/Landing-with-react/static/js/main.55e26d53.chunk.js.map",
     "runtime-main.js": "/Landing-with-react/static/js/runtime-main.33039f77.js",
@@ -8,7 +8,7 @@
     "static/js/2.0f8c8c68.chunk.js": "/Landing-with-react/static/js/2.0f8c8c68.chunk.js",
     "static/js/2.0f8c8c68.chunk.js.map": "/Landing-with-react/static/js/2.0f8c8c68.chunk.js.map",
     "index.html": "/Landing-with-react/index.html",
-    "static/css/main.fcaf0a77.chunk.css.map": "/Landing-with-react/static/css/main.fcaf0a77.chunk.css.map",
+    "static/css/main.94239e2e.chunk.css.map": "/Landing-with-react/static/css/main.94239e2e.chunk.css.map",
     "static/js/2.0f8c8c68.chunk.js.LICENSE.txt": "/Landing-with-react/static/js/2.0f8c8c68.chunk.js.LICENSE.txt",
     "static/media/boys.eea14ade.png": "/Landing-with-react/static/media/boys.eea14ade.png",
     "static/media/charles.d5d5759c.png": "/Landing-with-react/static/media/charles.d5d5759c.png",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.33039f77.js",
     "static/js/2.0f8c8c68.chunk.js",
-    "static/css/main.fcaf0a77.chunk.css",
+    "static/css/main.94239e2e.chunk.css",
     "static/js/main.55e26d53.chunk.js"
   ]
 }
