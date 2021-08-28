@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Landing-with-react/static/css/main.fcaf0a77.chunk.css",
+    "main.js": "/Landing-with-react/static/js/main.55e26d53.chunk.js",
+    "main.js.map": "/Landing-with-react/static/js/main.55e26d53.chunk.js.map",
+    "runtime-main.js": "/Landing-with-react/static/js/runtime-main.33039f77.js",
+    "runtime-main.js.map": "/Landing-with-react/static/js/runtime-main.33039f77.js.map",
+    "static/js/2.0f8c8c68.chunk.js": "/Landing-with-react/static/js/2.0f8c8c68.chunk.js",
+    "static/js/2.0f8c8c68.chunk.js.map": "/Landing-with-react/static/js/2.0f8c8c68.chunk.js.map",
+    "index.html": "/Landing-with-react/index.html",
+    "static/css/main.fcaf0a77.chunk.css.map": "/Landing-with-react/static/css/main.fcaf0a77.chunk.css.map",
+    "static/js/2.0f8c8c68.chunk.js.LICENSE.txt": "/Landing-with-react/static/js/2.0f8c8c68.chunk.js.LICENSE.txt",
+    "static/media/boys.eea14ade.png": "/Landing-with-react/static/media/boys.eea14ade.png",
+    "static/media/charles.d5d5759c.png": "/Landing-with-react/static/media/charles.d5d5759c.png",
+    "static/media/girl.3911f6d8.png": "/Landing-with-react/static/media/girl.3911f6d8.png",
+    "static/media/Cards.css": "/Landing-with-react/static/media/joa.8e2c85f4.png",
+    "static/media/men.d5d5e494.png": "/Landing-with-react/static/media/men.d5d5e494.png",
+    "static/media/photogirl.159a45ba.png": "/Landing-with-react/static/media/photogirl.159a45ba.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.33039f77.js",
+    "static/js/2.0f8c8c68.chunk.js",
+    "static/css/main.fcaf0a77.chunk.css",
+    "static/js/main.55e26d53.chunk.js"
+  ]
+}
